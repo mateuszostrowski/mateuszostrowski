@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm Mateusz Ostrowski
+- 🌱 I’m currently learning Java
+- 👯 I’m looking for a job as a Junior Java Developer
+- 📫 How to reach me: mateusz.ostrowski.lbn[at]gmail.com
 
 <!--
 **mateuszostrowski/mateuszostrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
